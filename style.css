@@ -56,6 +56,13 @@ main img {
 a:hover{
     text-decoration: underline;
 }
+.search_icon {
+    position: absolute;
+    padding: 11px 11px;
+    filter: contrast(0);
+    background-position: -248px -35px;
+    margin: 30px 30px;
+}
 #search {
     width: 50vw;
     max-width: 500px;
@@ -81,6 +88,11 @@ a:hover{
     cursor: pointer;
     border: 1px solid #fff;
     border-radius: 5px;
+}
+.gsprite {
+    background-image: url("img/gsprite.png");
+    background-color: transparent;
+    background-repeat: no-repeat;
 }
 footer{
     background-color: #eeeeee;
