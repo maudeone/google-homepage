@@ -56,6 +56,16 @@ main img {
 a:hover{
     text-decoration: underline;
 }
+.menu {
+    background-position: -131px -37px;
+    padding: 0;
+    height: 32px;
+    width: 32px;
+}
+.menu:hover {
+    background-color: #eee;
+    border-radius: 50%;
+}
 .search_icon {
     position: absolute;
     padding: 11px 11px;
@@ -90,7 +100,7 @@ a:hover{
     border-radius: 5px;
 }
 .gsprite {
-    background-image: url("img/gsprite.png");
+    background-image: url("https://raw.githubusercontent.com/NukeTurtle/google-homepage/main/img/gsprite.png");
     background-color: transparent;
     background-repeat: no-repeat;
 }
