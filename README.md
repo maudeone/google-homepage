@@ -1,0 +1,1 @@
+Maude's first webpage - remake of Google homepage. Practicing HTML, CSS, JS.
